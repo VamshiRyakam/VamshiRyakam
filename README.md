@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development, React**
 
-- 👨‍💻 All of my projects are available at [https://github.com/VamshiRyakam/Projects](https://github.com/VamshiRyakam?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/VamshiRyakam/Repositories](https://github.com/VamshiRyakam?tab=repositories)
 
 - 📫 How to reach me **ryakamvamshi@gmail.com**
 
